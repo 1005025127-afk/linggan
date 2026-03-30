@@ -37,7 +37,7 @@ const navItems: { key: ScreenKey; label: string }[] = [
   { key: 'workspace', label: '工作台' },
   { key: 'upload', label: '上传' },
   { key: 'detail', label: '详情' },
-  { key: 'library', label: '知识库' },
+  { key: 'library', label: '知识库1' },
   { key: 'search', label: '检索' },
 ];
 
